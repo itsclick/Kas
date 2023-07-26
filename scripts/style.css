@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.menus{
+	color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+
+
+.text{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#000;
+}
+
+.footer{
+	color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+}
